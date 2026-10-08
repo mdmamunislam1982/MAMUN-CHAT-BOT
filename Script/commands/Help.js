@@ -30,7 +30,7 @@ module.exports.languages = {
 };
 
 const helpImages = [
-  "https://i.imgur.com/cwd64Av.jpeg",
+  "https://i.imgur.com/aZfXHxS.jpeg",
   "https://i.imgur.com/hPtliXo.jpeg",
   "https://i.imgur.com/L7txp4M.jpeg",
   "https://i.imgur.com/5dG8PS5.jpeg"
