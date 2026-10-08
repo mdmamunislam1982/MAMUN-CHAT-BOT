@@ -8,7 +8,7 @@ module.exports.config = {
   usePrefix: true,
   version: "2.2.0",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
+  credits: "MAMUN",
   description: "Shows all commands with details",
   commandCategory: "system",
   usages: "[command name/page number]",
@@ -126,7 +126,7 @@ function getCommandInfo(command, prefix, botName) {
 
 ⚙️ 𝗣𝗿𝗲𝗳𝗶𝘅: ${prefix}
 🤖 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲: ${botName}
-🌸 𝗢𝘄𝗻𝗲𝗿: SHAHADAT SAHU`;
+🌸 𝗢𝘄𝗻𝗲𝗿: Md Mamun Islam `;
 }
 
 module.exports.run = function ({
@@ -232,7 +232,7 @@ ${msg}
 ┃ 🤖 Bot Name:
 ┃ ${botName}
 ┃ 🔰 Owner:
-┃ 𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐒𝐀𝐇𝐔
+┃ Md Mamun Islam 
 ╰━━━━━━━━━━━━━━━━╯`;
 
   sendMessage(
