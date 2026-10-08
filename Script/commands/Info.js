@@ -4,7 +4,7 @@ module.exports.config = {
   usePrefix: false,
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
+  credits: "𝐌𝐃 𝐌𝐀𝐌𝐔𝐍 𝐈𝐒𝐋𝐀𝐌",
   description: "Bot information command",
   commandCategory: "For users",
   hide: true,
@@ -69,13 +69,13 @@ module.exports.run = async function ({
 
 ╭⭓ ⪩ 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 ⪨
 │
-├─ 👑 𝗡𝗮𝗺𝗲 : 𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐒𝐀𝐇𝐔
-├─ 📲 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :
-│ facebook.com/100044713412032
+├─ 👑 𝗡𝗮𝗺𝗲 : 𝐌𝐃 𝐌𝐀𝐌𝐔𝐍 𝐈𝐒𝐋𝐀𝐌
+├─ 📲 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : https://www.facebook.com/md.mamun.islam3210
+│
 ├─ 💌 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
 │ m.me/100044713412032
 ├─ 📞 𝗪𝗵𝗮𝘁𝘀𝗀𝗩𝗵𝗔𝗽𝗽 :
-│ wa.me/+8801882333052
+│ wa.me/+8801892554541
 ╰───────⭓
 
 ╭⭓ ⪩ 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗜𝗘𝗦 ⪨
@@ -89,7 +89,7 @@ module.exports.run = async function ({
  😍${botName}😘`;
 
   const imgLinks = [
-    "https://i.imgur.com/cwd64Av.jpeg",
+    "https://i.imgur.com/qfDCh4U.jpeg",
     "https://i.imgur.com/hPtliXo.jpeg",
     "https://i.imgur.com/L7txp4M.jpeg",
     "https://i.imgur.com/5dG8PS5.jpeg"
